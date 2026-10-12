@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # OpenAI Codex in the Cloud & Ultrafast Sandboxes Architecture
 
 [![CI Status](https://github.com/Pradeeptalari14/tp-codex-cloud-sandboxes/actions/workflows/codex-ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-codex-cloud-sandboxes/actions)
@@ -192,3 +195,6 @@ tp-codex-cloud-sandboxes/
 ## 📜 License & Compliance
 
 Licensed under the [MIT License](LICENSE). Built for AI engineering and SRE teams scaling OpenAI DevDay 2026 Codex in the Cloud architectures.
+
+---
+*Synchronized with [OpenAI Codex in the Cloud & Ultrafast Sandboxes Studio Studio](https://pradeeptalari.me/tools/codex-cloud-sandboxes/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
